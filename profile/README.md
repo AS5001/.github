@@ -9,7 +9,7 @@ It is designed as a public, upstream resource to house
 
 and will be updated to track the current semester.
 
-Note that some course administration functions require privacy, so the following features are available in semester-specific, students-only organizations (e.g., `AS5001-2024`):
+Note that some aspects of course administration require privacy, so the following features are available in semester-specific, students-only organizations (e.g., `AS5001-2024`):
 * *private* starter project repos, copied from the public ones in source (`AS5001`). This allows student repositories to remain private from the world and one another.
 * GitHub Classroom collects semester projects into one organization.
 * GitHub Discussions collects semester topics.
